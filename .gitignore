@@ -26,6 +26,12 @@
 *.a
 *.lib
 
+# Linker files
+*.ilk
+
+# Debug related
+*.pdb
+
 # Executables
 *.exe
 *.out
